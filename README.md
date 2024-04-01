@@ -1,6 +1,6 @@
 # MyAlgorithm
 just record algorithm
----
+___
 ## 二分
 
 ## 前缀和
